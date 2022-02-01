@@ -1,0 +1,38 @@
+REM Change the background to a HotDog :D
+REM Works with Current Windows 10 and Edge
+REM
+REM
+REM
+DELAY 1000
+GUI r
+DELAY 200
+STRING microsoft-edge:http://s3.amazonaws.com/rapgenius/hotdog.jpg
+ENTER
+DELAY 750
+CONTROL s
+DELAY 500
+ENTER
+DELAY 500
+CONTROL w
+DELAY 500
+WINDOWS i
+DELAY 500
+TAB
+RIGHT
+RIGHT
+RIGHT
+RIGHT
+ENTER
+DELAY 1000
+TAB
+TAB
+TAB
+TAB
+DELAY 500
+ENTER
+DELAY 500
+STRING hotdog.jpg
+DELAY 500
+ENTER
+DELAY 500
+ALT F4
